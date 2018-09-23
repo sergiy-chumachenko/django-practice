@@ -92,3 +92,4 @@ migrations/
 # PyCharm
 .idea/
 practice_env/
+static/
